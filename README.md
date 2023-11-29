@@ -1,6 +1,12 @@
 # ControlBarrera-Arduino
 
-#Consigna
+# Hardware - Tinkercad
+![Primera parte](https://github.com/FiorellaAguayo/ControlBarrera-Arduino/blob/main/images/arduino.png)
+
+# Link a Tinkerdad
+https://www.tinkercad.com/things/ix5gpBy4X4Q-2-examen-parcial-entrega-27-11-23
+
+# Consigna
 
  Solo en el modo de funcionamiento (ni programacion ni informacion ni cambio de angulos), al presionar la tecla #, se debe encender o apagar el backlight del display
  
@@ -42,7 +48,3 @@ En este mismo modo, para que la barrera se cierre, se debe escribir la clave en 
 para cerrar la barrera, debe presionarse 4321 y luego la "C".
 En el caso del cierre se repite el formato de la apertura, con la leyenda "Cierra Barrera" durante dos segundos y luego vuelve a los "****"
 
-# Hardware - Tinkercad
-
-# Link a Tinkerdad
-https://www.tinkercad.com/things/ix5gpBy4X4Q-2-examen-parcial-entrega-27-11-23
